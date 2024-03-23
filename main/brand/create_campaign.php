@@ -1420,7 +1420,9 @@
 //         }
 //     }
 // }
-        
+
+
+
         const fileInput = document.getElementById('poster1');
         const previewDiv = document.getElementById('poster_preview');
 
